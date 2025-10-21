@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, me llamo Adrián Torres Tejero</h1>
 <h3 align="center">Soy estudiante de 2º de DAM</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarfaya22&label=Profile%20views&color=0e75b6&style=flat" alt="tarfaya22" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adrian-Torres-Tejero&label=Profile%20views&color=0e75b6&style=flat" alt="Adrian-Torres-Tejero" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarfaya22" alt="tarfaya22" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adrian-Torres-Tejero" alt="Adrian-Torres-Tejero" /></a> </p>
 
 
 
@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarfaya22&show_icons=true&locale=en&layout=compact" alt="tarfaya22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarfaya22&show_icons=true&locale=en" alt="tarfaya22" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adrian-Torres-Tejero&show_icons=true&locale=en" alt="Adrian-Torres-Tejero" /></p>
 
 
