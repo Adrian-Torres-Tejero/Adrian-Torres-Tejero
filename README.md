@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adrian-Torres-Tejero&label=Profile%20views&color=0e75b6&style=flat" alt="Adrian-Torres-Tejero" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adrian-Torres-Tejero" alt="Adrian-Torres-Tejero" /></a> </p>
-
 
 
 <h3 align="left">Lenguajes y herramientas:</h3>
