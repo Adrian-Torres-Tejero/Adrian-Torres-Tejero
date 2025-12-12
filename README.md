@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adrian-Torres-Tejero&show_icons=true&locale=en&layout=compact" alt="Adrian-Torres-Tejero" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adrian-Torres-Tejero&show_icons=true&locale=en" alt="Adrian-Torres-Tejero" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adrian-Torres-Tejero&show_icons=true&locale=en](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Adrian-Torres-Tejero" alt="Adrian-Torres-Tejero" /></p>
 
 
