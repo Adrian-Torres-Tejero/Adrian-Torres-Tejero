@@ -19,8 +19,8 @@
   <li>Mantenimiento de equipos</li>
 </ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adrian-Torres-Tejero&show_icons=true&locale=en&layout=compact" alt="Adrian-Torres-Tejero" /></p>
+<p><img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adrian-Torres-Tejero" alt="Adrian-Torres-Tejero" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Adrian-Torres-Tejero&show_icons=true&locale=en" alt="Adrian-Torres-Tejero" /></p>
+<p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adrian-Torres-Tejero" alt="Adrian-Torres-Tejero" /></p>
 
 
